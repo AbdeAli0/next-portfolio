@@ -31,7 +31,7 @@ export function Drone(props) {
   const [a, b, c] = props.position ? [...props.position] : [1.5, 0.5, 0]
 
   const group = useRef()
-  const { nodes, materials, animations } = useGLTF('/models/buster_drone.glb')
+  const { nodes, materials, animations } = useGLTF('/models/buster_drone2.glb')
   const { actions, names } = useAnimations(animations, group)
   const targetPosition = useRef(new THREE.Vector3(a, b, c))
 
@@ -221,4 +221,4 @@ export function Drone(props) {
   )
 }
 
-useGLTF.preload('/models/buster_drone.glb')
+useGLTF.preload('/models/buster_drone2.glb')
