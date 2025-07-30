@@ -190,7 +190,7 @@ export const myProjects = [
     ],
     href: '',
     logo: '',
-    image: '/assets/projects/Floomy.webp',
+    image: '/assets/projects/floomy.webp',
     tags: [
       {
         id: 1,
