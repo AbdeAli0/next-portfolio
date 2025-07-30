@@ -1,0 +1,32 @@
+{
+  "name": "portfolio1",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emailjs/browser": "^4.4.1",
+    "@react-three/drei": "^10.6.1",
+    "@react-three/postprocessing": "^3.0.4",
+    "cobe": "^0.6.4",
+    "next": "15.4.4",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "react-responsive": "^10.0.1",
+    "react-spinners": "^0.17.0",
+    "tailwind-merge": "^3.3.1"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4.0.7",
+    "@types/node": "24.1.0",
+    "eslint": "^9",
+    "eslint-config-next": "15.4.4",
+    "motion": "^12.4.5",
+    "tailwindcss": "^4.0.7"
+  }
+}
