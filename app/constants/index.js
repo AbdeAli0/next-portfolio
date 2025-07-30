@@ -11,7 +11,7 @@ export const myProjects = [
     ],
     href: 'https://lakebrains.com/',
     logo: '',
-    image: '/assets/projects/lakebrains.png',
+    image: '/assets/projects/lakebrains.webp',
     tags: [
       {
         id: 1,
@@ -48,7 +48,7 @@ export const myProjects = [
     ],
     href: 'https://staxai.com/',
     logo: '',
-    image: '/assets/projects/stax.png',
+    image: '/assets/projects/stax.webp',
     tags: [
       {
         id: 1,
@@ -80,7 +80,7 @@ export const myProjects = [
     ],
     href: 'https://www.yourcpapshop.com/',
     logo: '',
-    image: '/assets/projects/yourcpapshop.png',
+    image: '/assets/projects/yourcpapshop.webp',
     tags: [
       {
         id: 1,
@@ -112,7 +112,7 @@ export const myProjects = [
     ],
     href: 'https://staxai.com/calculator',
     logo: 'https://staxai.com/hubfs/website-images/logo-white.svg',
-    image: '/assets/projects/Property Analysis Calculator.png',
+    image: '/assets/projects/Property Analysis Calculator.webp',
     tags: [
       {
         id: 1,
@@ -143,7 +143,7 @@ export const myProjects = [
     ],
     href: 'https://drive.google.com/file/d/1FLV4gMbv72xm9HgqV0RcoTLiWSO7tc8S/view',
     logo: '',
-    image: '/assets/projects/respark.png',
+    image: '/assets/projects/respark.webp',
     tags: [
       {
         id: 1,
@@ -190,7 +190,7 @@ export const myProjects = [
     ],
     href: '',
     logo: '',
-    image: '/assets/projects/Floomy.png',
+    image: '/assets/projects/Floomy.webp',
     tags: [
       {
         id: 1,
