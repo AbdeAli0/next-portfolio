@@ -2,12 +2,13 @@ export const myProjects = [
   {
     id: 1,
     title: 'Lakebrains Website',
-    description: 'AI-Powered SaaS Development Using React, Node.js & Python',
+    description:
+      'Lakebrains Technologies is an AI-focused SaaS development company delivering scalable, user-centric digital solutions for startups and enterprises.',
     subDescription: [
-      'Modern Frontend with React: Build lightning-fast, responsive web interfaces that deliver seamless user experiences across devices.',
-      'Scalable Backend with Node.js & Python: Leverage Node.js for real-time performance and Python for advanced AI/ML capabilities and data processing.',
-      'AI-Driven Features: Integrate NLP, Generative AI, and Computer Vision into your product to unlock automation and intelligence.',
-      'Cloud-Native Deployment: Deploy effortlessly on AWS, GCP, or Azure with secure, production-grade infrastructure.',
+      'Designed and developed using React and Node.js for seamless performance and scalability.',
+      'Highlights the company’s AI-powered services, SaaS product engineering, and cloud deployments.',
+      'Features real client success stories, use-case-driven case studies, and testimonials.',
+      'Built to reflect a modern, iterative, and collaborative development approach aligned with design thinking.',
     ],
     href: 'https://lakebrains.com/',
     logo: '',
@@ -25,11 +26,6 @@ export const myProjects = [
       },
       {
         id: 3,
-        name: 'MongoDB',
-        path: '/assets/logos/mongo.svg',
-      },
-      {
-        id: 4,
         name: 'TailwindCSS',
         path: '/assets/logos/tailwindcss.svg',
       },
@@ -71,12 +67,12 @@ export const myProjects = [
     id: 3,
     title: 'YourCPAPShop',
     description:
-      'YourCPAPShop – Canada’s trusted Shopify-powered store for premium CPAP machines, masks, and expert sleep support.',
+      'YourCPAPShop is a Shopify-powered e-commerce store offering premium CPAP machines and medical-grade equipment with secure Stripe payments.',
     subDescription: [
-      'Developed a fully interactive Single Page Application (SPA) using Blazor WebAssembly.',
-      'Implemented API interactions using .NET Core for a robust backend.',
-      'Designed responsive UI components with Tailwind CSS for an enhanced UX.',
-      'Integrated SQLite for efficient client-side database storage.',
+      'Built on Shopify with integrated Stripe for seamless, secure online transactions.',
+      'Offers a curated selection of CPAP machines, masks, batteries, and supplies from trusted brands like ResMed and Löwenstein.',
+      'Features concierge sleep support programs and personalized therapy bundles for patients with sleep apnea.',
+      'Designed for fast performance, responsive design, and a simplified customer journey with easy checkout and support tools.',
     ],
     href: 'https://www.yourcpapshop.com/',
     logo: '',
@@ -89,13 +85,8 @@ export const myProjects = [
       },
       {
         id: 2,
-        name: 'HTML5',
-        path: '/assets/logos/html5.svg',
-      },
-      {
-        id: 3,
-        name: 'CSS3',
-        path: '/assets/logos/css3.svg',
+        name: 'Stripe',
+        path: '/assets/logos/stripe.svg',
       },
     ],
   },
@@ -152,26 +143,21 @@ export const myProjects = [
       },
       {
         id: 2,
-        name: 'HTML5',
-        path: '/assets/logos/html5.svg',
+        name: 'Chrome Extension',
+        path: '/assets/logos/chrome.svg',
       },
       {
         id: 3,
-        name: 'CSS3',
-        path: '/assets/logos/css3.svg',
-      },
-      {
-        id: 4,
         name: 'Vite.js',
         path: '/assets/logos/vitejs.svg',
       },
       {
-        id: 5,
+        id: 4,
         name: 'Node.js',
         path: '/assets/logos/nodejs.svg',
       },
       {
-        id: 6,
+        id: 5,
         name: 'Python',
         path: '/assets/logos/python.svg',
       },
