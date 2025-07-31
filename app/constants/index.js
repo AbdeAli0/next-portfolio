@@ -188,7 +188,7 @@ export const myProjects = [
       'AI Insights with Python Models: Python-based AI models summarize discussions, detect action items, and identify key blockers — so you don’t miss a thing.',
       'Built for Google Meet Integration: Automatically activates in Google Meet sessions to capture conversation flow, snapshots, and generate organized Meeting Minutes (MOM).',
     ],
-    href: '',
+    href: 'https://chromewebstore.google.com/detail/floomy-save-time-with-mee/fncjpolcghakbeeeglfahcpjhnghephh?hl=en-US&utm_source=ext_sidebar',
     logo: '',
     image: '/assets/projects/floomy.webp',
     tags: [
