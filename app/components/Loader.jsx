@@ -29,7 +29,7 @@ const Loader = () => {
         }}
       >
         <PacmanLoader size={20} color='white' />
-        <div>{progress.toFixed(0)}% Loaded</div>
+        <div>{progress.toFixed(0)}% Loading</div>
       </div>
     </Html>
   )
