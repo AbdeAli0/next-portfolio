@@ -116,11 +116,12 @@ const About = () => {
           <div className='z-10 w-[50%]'>
             <p className='headText'>Teck Stack</p>
             <p className='subtext'>
-              I build scalable full-stack applications using the MERN stack
-              (MongoDB, Express.js, React, Node.js), with deployment expertise
-              on AWS and GCP. I also work with Chrome Extensions, Shopify
-              customizations and leverage Puppeteer for powerful browser
-              automation and testing.
+              I specialize in building scalable full-stack applications using
+              the MERN stack (MongoDB, Express.js, React, Node.js). I have
+              hands-on experience deploying solutions on cloud platforms like
+              AWS and Google Cloud (GCP). My expertise also includes developing
+              Chrome Extensions, customizing Shopify storefronts, and leveraging
+              Puppeteer for advanced browser automation and testing.
             </p>
           </div>
           <div className='absolute inset-y-0 md:inset-y-9 w-full h-full start-[30%] md:scale-125'>
